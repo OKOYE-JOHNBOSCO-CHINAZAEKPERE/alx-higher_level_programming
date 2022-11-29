@@ -1,1 +1,2 @@
-hjhjhjh
+#!/bin/bash
+python3 <<< $PYCODE
